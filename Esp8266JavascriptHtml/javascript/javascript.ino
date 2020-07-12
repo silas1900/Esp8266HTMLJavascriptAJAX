@@ -14,10 +14,10 @@
 
 //=====================================================================================================================================================
 // Nome do sua rede wifi
-const char* ssid = "CNET TELECOM_FAMILIA ALMEIDA"; 
+const char* ssid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"; 
 
 // Senha do seu wifi
-const char* password = "almeida87"; 
+const char* password = "xxxxxxxxxxxxxxxxxxxxxxxxx"; 
 
 //===============================================================================================================================================================
 // Porta de comunicacao (normalmente se utiliza a 80 ou 8080)
