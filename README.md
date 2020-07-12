@@ -1,5 +1,7 @@
 # Esp8266HTMLJavascriptAJAX
 Ligar e desligar led com Esp8266NodeMCU, através de uma página HTML externa utilizando javascript com AJAX
+
+
 //==================================================================================================================================================
 /* Simples método para ligar e desligar utilizando Esp8266 NodeMCU e uma página HTML externa,Javascript com  disparos AJAX 
  *  
