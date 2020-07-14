@@ -86,7 +86,7 @@ void loop() {
   Serial.println(req);
   client.flush();
   
-  // Verifica se existe a substring led5_on
+  // Verifica se existe a substring led1_on
   if (req.indexOf("led1_on") != -1) { //Liga led1
     digitalWrite(led1, 1);
     Serial.println(req.indexOf("led1_on"));
